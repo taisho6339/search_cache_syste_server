@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="pyramid_debugtoolbar" />
+            <item index="1" class="java.lang.String" itemvalue="pyapns" />
+            <item index="2" class="java.lang.String" itemvalue="pyramid-mailer" />
+            <item index="3" class="java.lang.String" itemvalue="WebTest" />
+            <item index="4" class="java.lang.String" itemvalue="transaction" />
+            <item index="5" class="java.lang.String" itemvalue="pyramid" />
+            <item index="6" class="java.lang.String" itemvalue="mysql-python" />
+            <item index="7" class="java.lang.String" itemvalue="pyramid_scheduler" />
+            <item index="8" class="java.lang.String" itemvalue="deform" />
+            <item index="9" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="10" class="java.lang.String" itemvalue="pyramid-beaker" />
+            <item index="11" class="java.lang.String" itemvalue="waitress" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
