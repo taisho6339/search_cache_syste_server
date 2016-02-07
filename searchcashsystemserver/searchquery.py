@@ -11,8 +11,8 @@ def retrieve_snippet(query):
     print('search_query:' + query)
     for i in range(2):
         params = {
-            'key': 'AIzaSyDXDl__FTjqeRyZ8IRUrTrC4Og2oMZPcis',
-            'cx': '003367103197094017428:oaubnen_qok',
+            'key': '',
+            'cx': '',
             'alt': 'json',
             'q': query,
             'start': str(1 + i * 10)
